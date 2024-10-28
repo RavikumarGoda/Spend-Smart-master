@@ -1,0 +1,49 @@
+
+.chart-wrapper {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ width: 100vw;
+ height: 90vh;
+}
+.wrapper
+ {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ width: 100vw;
+ height: 90vh;
+}
+
+.chart-container {
+ padding: 2rem;
+ margin: 1rem;
+ border-radius: 0.5rem;
+ box-shadow: var(--shadow);
+ /* Add a box shadow for a "box" effect */
+ background-color: #fff;
+ height: 85%;
+ /* Make both charts the same height */
+}
+
+.line-chart-container {
+ flex: 7;
+ /* 70% width */
+ max-width: 70%;
+}
+
+.pie-chart-container {
+ flex: 3;
+ /* 30% width */
+ max-width: 30%;
+ margin-right: 2rem;
+}
+
+h2 {
+ font-family: "Montserrat", sans-serif;
+ font-size: 24px;
+ /* Adjust the size if needed */
+ margin: 0;
+ /* Optional: to remove any default margin */
+ font-weight: 450;
+}
