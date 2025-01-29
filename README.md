@@ -150,8 +150,8 @@ const addTransaction = async (transactionData) => {
 
 
 ## Contact
-Name - yeddulamadhu6@gmail.com
-Project Link: https://github.com/ymadhumohanreddy/Spend-Smart.git
+Name - ravikumar.goda12@gmail.com
+Project Link: https://github.com/RavikumarGoda/Spend-Smart-master
 
 ## Acknowledgments
 - Ant Design for the UI components
