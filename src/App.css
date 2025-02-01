@@ -32,12 +32,14 @@
  max-width: 70%;
 }
 
+
 .pie-chart-container {
  flex: 3;
  /* 30% width */
  max-width: 30%;
  margin-right: 2rem;
 }
+
 
 h2 {
  font-family: "Montserrat", sans-serif;
