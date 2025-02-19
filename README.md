@@ -3,7 +3,7 @@
 
 
 ## Overview
-SpendSmart is a comprehensive web application designed to help users track their income, expenses, and monitor their financial balance. Built with React and Firebase, it offers real-time data synchronization and a user-friendly interface for managing personal finances effectively.
+SpendSmart is a comprehensive web application designed to help users track their incomes, expenses, and monitor their financial balance. Built with React and Firebase, it offers real-time data synchronization and a user-friendly interface for managing personal finances effectively.
 
 ## Features
 - **User Authentication**: Secure login and registration system using Firebase Authentication
